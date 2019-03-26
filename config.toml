@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "ritosonn"
+theme = "vncnt-hugo"
+[params]
+  author = "ritosonn"
+  email = "ritosonn@gmail.com"
+  blog = "https://ritosonn.github.io/blog/"
+  description = "Landing Page"
+  avatar = "img/avatar.jpg"
+  favicon = "img/favicon.ico"
+  error404 = "There is no such page."
+[params.contact]
+  twitter = "https://twitter.com/ritosonn"
+  github = "https://github.com/ritosonn"
+  
